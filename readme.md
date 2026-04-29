@@ -66,3 +66,17 @@ java src/Main.java
 ```
 
 Certifique-se de ter o Java instalado e configurado no seu sistema.
+
+## 👥 Autores
+
+* **Eduardo Alves Paiva**
+  Fase Cobrinha, fase inicial, músicas de todas as fases, menu inicial e mecânica de movimentação fluida
+
+* **Henrique Ribeiro de Figueiredo**
+  Fase Pacman e músicas de todas as fases
+
+* **João Pedro Biazus Fagá**
+  Fase Explorador, imagem dos créditos e música da fase inicial
+
+* **Pedro Camelo Gonzaga**
+  Fase ShotDuck (atire no pato), música da fase inicial e música da fase do Pacman
