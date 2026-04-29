@@ -70,13 +70,26 @@ Certifique-se de ter o Java instalado e configurado no seu sistema.
 ## 👥 Autores
 
 * **Eduardo Alves Paiva**
-  Fase Cobrinha, fase inicial, músicas de todas as fases, menu inicial e mecânica de movimentação fluida
+
+  * Fase Cobrinha
+  * Fase inicial
+  * Músicas de todas as fases
+  * Menu inicial
+  * Mecânica de movimentação fluida
 
 * **Henrique Ribeiro de Figueiredo**
-  Fase Pacman e músicas de todas as fases
+
+  * Fase Pacman
+  * Músicas de todas as fases
 
 * **João Pedro Biazus Fagá**
-  Fase Explorador, imagem dos créditos e música da fase inicial
+
+  * Fase Explorador
+  * Imagem dos créditos
+  * Música da fase inicial
 
 * **Pedro Camelo Gonzaga**
-  Fase ShotDuck (atire no pato), música da fase inicial e música da fase do Pacman
+
+  * Fase ShotDuck (atire no pato)
+  * Música da fase inicial
+  * Música da fase do Pacman
