@@ -32,22 +32,22 @@ Fliperama-Fantasma/
 ## 🎮 Fases do jogo
 
 * **FaseMenu**  
-  Interface inicial para navegação e início do jogo.
+  - Interface inicial para navegação e início do jogo.
 
 * **FaseCabana**  
-  Introdução da história. O jogador explora a cabana abandonada e encontra o fliperama amaldiçoado.
+  - Introdução da história. O jogador explora a cabana abandonada e encontra o fliperama amaldiçoado.
 
 * **FaseExplorador**  
-  Fase com foco em exploração, incentivando o jogador a navegar pelo ambiente e descobrir caminhos.
+  - Fase com foco em exploração, incentivando o jogador a navegar pelo ambiente e descobrir caminhos.
 
 * **FaseCobrinha**  
-  Baseada no estilo *Snake*, o jogador controla um personagem que cresce ao coletar itens, evitando colisões.
+  - Baseada no estilo *Snake*, o jogador controla um personagem que cresce ao coletar itens, evitando colisões.
 
 * **FasePacman**  
-  Inspirada em jogos clássicos de labirinto, onde o jogador deve coletar itens enquanto evita inimigos.
+  - Inspirada em jogos clássicos de labirinto, onde o jogador deve coletar itens enquanto evita inimigos.
 
 * **FaseShotDuck**  
-  Inspirada em jogos de tiro. Nesta fase, o jogador utiliza o **mouse para puxar o estilingue e realizar disparos** contra os alvos.
+  - Inspirada em jogos de tiro. Nesta fase, o jogador utiliza o **mouse para puxar o estilingue e realizar disparos** contra os alvos.
 
 ## 🎮 Controles
 
