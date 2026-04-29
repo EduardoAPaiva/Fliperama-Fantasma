@@ -1,6 +1,6 @@
 # 🎮 Fliperama Fantasma
 
-Projeto desenvolvido para a disciplina **SCC0604 – Programação Orientada a Objetos**.
+Projeto desenvolvido para a disciplina **SCC0604 – Programação Orientada a Objetos** da Universidade de São Paulo, campus São Carlos, unidades EESC & ICMC.
 
 ## 📖 Sobre o projeto
 
